@@ -1,4 +1,4 @@
-# Repositório para a aula de ordenação ministrada pelo professor Cleudiney
+# Repositório para a aula de ordenação de dados ministrada pelo professor Cleudiney
 void selection_sort(int num[], int tam) 
 { 
   int i, j, min, aux;
